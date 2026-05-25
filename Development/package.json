@@ -5,7 +5,7 @@
   "homepage": ".",
   "dependencies": {
     "@material-ui/core": "^4.3.3",
-    "@material-ui/icons": "^4.2.1",
+    "@mui/icons-material": "^5.0.0",
     "@material-ui/lab": "^4.0.0-alpha.57",
     "@material-ui/styles": "^4.3.3",
     "clipboard-copy": "^4.0.1",
